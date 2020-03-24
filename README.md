@@ -31,7 +31,7 @@ Pour tester si votre travail est bon : `npm test <nom_ennoncé>`.
 3. "fizzbuzz" dans le cas où le nombre passé est à la fois un multiple de 3 et de 5
 4. Le nombre dans le cas où ce dernier n’est ni un multiple de 3 ni un multiple de 5
 
-### farenheitToCelsius
+### kelvinToCelsius
 Écrire un programme qui renvoie une température en celsius à partir d'une température donnée en kelvin.
 Voici la formule de conversion : `[°K] = [°C] + 273.15`
 Attention : le resultat doit être arrondi à l'entier le plus proche !
