@@ -32,6 +32,11 @@ Pour tester si votre travail est bon : `npm test <nom_ennoncé>`.
 4. Le nombre dans le cas où ce dernier n’est ni un multiple de 3 ni un multiple de 5
 
 ### farenheitToCelsius
+Écrire un programme qui renvoie une température en celsius à partir d'une température donnée en kelvin.
+Voici la formule de conversion : `[°K] = [°C] + 273.15`
+Attention : le resultat doit être arrondi à l'entier le plus proche !
+
+### farenheitToCelsius
 
 Écrire un programme qui renvoie une température en celsius à partir d'une température donnée en farenheit.
 Voici la formule de conversion : `[°F] = [°C] × ​9⁄5 + 32`

@@ -1,4 +1,4 @@
-const farenheitToCelcius = (f) => {
+const farenheitToCelcius = () => {
     
 };
 
