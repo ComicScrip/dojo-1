@@ -4,7 +4,7 @@
   "description": "",
   "main": "fizzBuzz.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch --notify"
   },
   "author": "",
   "license": "ISC",
